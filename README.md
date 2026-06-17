@@ -76,13 +76,4 @@ ros2 launch sprint8_eurobot sprint8_launch.py
 
 Una vez ejecutado, espera el mensaje de inicialización en la terminal, verifica que las ventanas de debug visual (OpenCV) aparecen, posiciona el robot y **presiona ENTER** para iniciar la demostración autónoma.
 
----
 
-## Acerca del Proyecto (About)
-
-> **Proyecto III - Robótica Móvil**  
-> Repositorio oficial del **Grupo 12** para el desarrollo e implementación de algoritmos para el robot de la competición Eurobot.
-> 
-> **Equipo de Desarrollo:** Grupo 12 ([rbriz758/g12_prii3](https://github.com/rbriz758/g12_prii3))  
-> **Contexto:** Trabajo de la asignatura anual centrado en el diseño algorítmico, simulación (Gazebo) e integración física final de un sistema robótico distribuido.  
-> **Áreas de Trabajo:** Visión artificial, Cinemática, Control embebido, Máquinas de estados.
