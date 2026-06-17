@@ -1,5 +1,14 @@
 # Eurobot 2026 - Sistema Autónomo de Navegación y Manipulación
 
+<p align="center">
+  <img src="https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS 2" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/Gazebo-FF8800?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
+</p>
+
 Este repositorio contiene el código fuente y la arquitectura de control para un robot autónomo diseñado para la competición **Eurobot**. El proyecto integra navegación visual (siguelíneas), visión artificial para detección de objetivos, y manipulación física mediante un brazo robótico, todo orquestado bajo **ROS 2** y una **Máquina de Estados Finitos (FSM)**.
 
 ## Descripción del Proyecto
